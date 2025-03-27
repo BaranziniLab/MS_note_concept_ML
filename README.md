@@ -85,6 +85,7 @@ The notebooks expect data to be accessible via UCSF Information Commons:
 /path/to/ic/data/
 
 ├── DEID_OMOP/
+
 └── DEID_CDW/
 
 /path/to/scratch/
