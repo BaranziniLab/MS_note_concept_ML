@@ -81,9 +81,12 @@ spoke_mappings.json: Pre-computed mappings between clinical concepts and SPOKE e
 
 ## Additional Data Structures
 The notebooks expect data to be accessible via UCSF Information Commons:
+
 /path/to/ic/data/
+
 ├── DEID_OMOP/
 └── DEID_CDW/
+
 /path/to/scratch/
 
 # Usage Instructions
