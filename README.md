@@ -132,7 +132,6 @@ The repository includes comprehensive evaluation metrics:
 - Integration of additional knowledge sources
 - Enhanced feature selection methods
 - Improved temporal modeling
-- Extension to other neurological conditions
 
 # Contact
 For questions about the codebase or collaboration opportunities, please contact: noah.baker@ucsf.edu
